@@ -2,6 +2,8 @@
 
 Time series forecasting on the [UCI Household Power Consumption dataset](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption) — comparing ARIMA, SARIMA, and Holt-Winters Exponential Smoothing to forecast daily household energy usage, deployed as an interactive Streamlit app.
 
+🔗 **[Live App](https://household-power-forecasting-sa6vxbrjykcutetvpojmwl.streamlit.app/)**
+
 ## Problem
 
 Given ~4 years of minute-level power readings from a single household (Dec 2006 – Nov 2010), forecast future daily average power consumption (`Global_active_power`, in kW).
